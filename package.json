@@ -1,6 +1,6 @@
 {
   "name": "basic-node-starter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "node starter package - typescript, jest, eslint, prettier, nodemon, dotenv",
   "main": "index.js",
   "scripts": {
@@ -40,5 +40,9 @@
   },
   "dependencies": {
     "dotenv": "^16.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huseyin-ensari/node-starter"
   }
 }
