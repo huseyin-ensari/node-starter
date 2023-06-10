@@ -1,5 +1,5 @@
 {
-  "name": "node-starter",
+  "name": "basic-node-starter",
   "version": "1.0.0",
   "description": "node starter package - typescript, jest, eslint, prettier, nodemon, dotenv",
   "main": "index.js",
