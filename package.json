@@ -1,7 +1,7 @@
 {
-  "name": "cli",
+  "name": "node-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "node starter package - typescript, jest, eslint, prettier, nodemon, dotenv",
   "main": "index.js",
   "scripts": {
     "start": "node dist/index.js",
@@ -11,11 +11,20 @@
     "lint": "eslint .",
     "format": "prettier --write ."
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "node",
+    "typescript",
+    "jest",
+    "eslint",
+    "prettier",
+    "nodemon",
+    "dotenv"
+  ],
+  "author": "hüseyin ensari github.com/huseyin-ensari",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.5.2",
+    "@types/node": "^20.3.0",
     "@typescript-eslint/eslint-plugin": "^5.59.9",
     "@typescript-eslint/parser": "^5.59.9",
     "concurrently": "^8.2.0",
